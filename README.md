@@ -1,5 +1,3 @@
-# 🌐 Semesterarbeit – Global Cybersecurity Threats
-
 Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit über 3.000 dokumentierten Vorfällen aus den Jahren 2015–2024. Ziel ist es, auf Basis des CPA-Frameworks („From Data to Decisions“) datengetriebene Erkenntnisse über Angriffsarten, betroffene Branchen und wirtschaftliche Schäden zu gewinnen.
 
 
