@@ -15,7 +15,7 @@ Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit übe
 
 **Modul:** BINA – Business Intelligence & Analytics
 
-**Dozent:** Prof. Dr. Alen Doko 
+**Dozent:** Dr. Alen Doko 
 
 
 
