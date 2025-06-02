@@ -10,9 +10,12 @@ Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit übe
 - Rafael Olivier Gallardo
 - Valon Ismaili
 
-## **Studiengang:** Master of Science in Wirtschaftsinformatik
+**Studiengang:** Master of Science in Wirtschaftsinformatik
 
-## Modul: BINA – Business Intelligence & Analytics
+**Modul:** BINA – Business Intelligence & Analytics
+
+**Dozent:** Dozent	Prof. Dr. Alen Doko 
+
 
 
 
@@ -65,17 +68,5 @@ Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit übe
 - Google Colab
 - GitHub
 - CPA-Analysemodell: From Data to Decisions
-
-## 👤 Autor
-
-- **Almooveli**
-- Almir Veli
-- Andreas Gut
-- Irmak Divrikli
-- Janaarthan Balachandran
-- Rafael Olivier Gallardo
-- Valon Ismaili
-
-Studiengang: BINA – Business Intelligence & Analytics
 
 
