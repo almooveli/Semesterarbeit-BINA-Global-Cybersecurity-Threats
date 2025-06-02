@@ -64,10 +64,10 @@ Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit übe
  - [Zum interaktiven Notebook öffnen](https://colab.research.google.com/github/almooveli/Semesterarbeit-BINA-Global-Cybersecurity-Threats/blob/main/Semesterarbeit_Global_Cybersecurity_Threats.ipynb)
 
 ## 🎥 Viedo öffnen
- - https://drive.google.com/file/d/1VLcNd6hCgm1Sn1xyWy3pMEd2bfZ98ZPp/view?usp=drive_link
+ - [Video öffnen](https://drive.google.com/file/d/1VLcNd6hCgm1Sn1xyWy3pMEd2bfZ98ZPp/view?usp=drive_link)
 
 ## 📊 PowerPoint öffnen
- - https://docs.google.com/presentation/d/1IAoIIbB1qM7rGAlAKa3cFJfHJJcomLba/edit?usp=drive_link&ouid=115209427036159020596&rtpof=true&sd=true
+ - [PowerPoint öffnen](https://docs.google.com/presentation/d/1IAoIIbB1qM7rGAlAKa3cFJfHJJcomLba/edit?usp=drive_link&ouid=115209427036159020596&rtpof=true&sd=true)
 
 ## 🧠 Verwendete Technologien
 
