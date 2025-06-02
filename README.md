@@ -19,7 +19,6 @@ Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit übe
 
 
 
-
 ## 🔍 Inhalte
 
 
@@ -50,24 +49,30 @@ Dieses Projekt analysiert einen internationalen Cybersecurity-Datensatz mit übe
   - Random Forest Regressor mit Feature Importance
   - ARIMA
   - Analyse der Autokorrelationsfunktionen (ACF
- 
-## 📁 Projektstruktur
-- 📂 Daten/ → Rohdaten & vorbereitete Dateien
-- 📂 PowerPoint/ → Präsentationsfolien
-- 📂 Video/ → Ergebnispräsentation
-- 📄 Semesterarbeit_Global_Cybersecurity_Threats.ipynb → Hauptnotebook
-- 📄 README.md → Diese Projektbeschreibung
+
 
 ## 🚀 Projekt öffnen
 
 ▶️ Direkt in **Google Colab** starten:  
  - [Zum interaktiven Notebook öffnen](https://colab.research.google.com/github/almooveli/Semesterarbeit-BINA-Global-Cybersecurity-Threats/blob/main/Semesterarbeit_Global_Cybersecurity_Threats.ipynb)
 
-## 🎥 Viedo öffnen
+
+## 🎥 Video öffnen
  - [Video öffnen](https://drive.google.com/file/d/1VLcNd6hCgm1Sn1xyWy3pMEd2bfZ98ZPp/view?usp=drive_link)
+
 
 ## 📊 PowerPoint öffnen
  - [PowerPoint öffnen](https://docs.google.com/presentation/d/1IAoIIbB1qM7rGAlAKa3cFJfHJJcomLba/edit?usp=drive_link&ouid=115209427036159020596&rtpof=true&sd=true)
+
+
+## 📁 Projektstruktur
+- 📂 Daten/ → Rohdaten & vorbereitete Dateien
+- 📂 PowerPoint/ → Präsentationsfolien
+- 📂 Video/ → Ergebnispräsentation
+- 📄 Semesterarbeit_Global_Cybersecurity_Threats.ipynb → Hauptnotebook
+- 📄 README.md → Diese Projektbeschreibung
+- [Link öffnen](https://github.com/almooveli/Semesterarbeit-BINA-Global-Cybersecurity-Threats)
+
 
 ## 🧠 Verwendete Technologien
 
